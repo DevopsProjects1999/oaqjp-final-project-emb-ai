@@ -1,4 +1,4 @@
-import requests,jsonify,json
+import requests,json
  
 
 def emotion_detector(text_to_analyze):
